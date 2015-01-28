@@ -10,7 +10,9 @@
     "globals"
   ],
   "license": "MIT",
-  "ignore": [],
+  "ignore": [
+    "index.html"
+  ],
   "dependencies": {
     "jquery": "~2.1.3"
   },
